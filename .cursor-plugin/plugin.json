@@ -1,0 +1,18 @@
+{
+    "name": "postify",
+    "displayName": "Postify",
+    "version": "0.0.1",
+    "description": "Manage, draft, and read your Postify workspace content securely within Cursor.",
+    "author": {
+        "name": "Businice SRL"
+    },
+    "keywords": [
+        "mcp",
+        "postify",
+        "social-media",
+        "content-management",
+        "tools"
+    ],
+    "category": "Productivity",
+    "license": "MIT"
+}
