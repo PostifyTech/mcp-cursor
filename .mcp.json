@@ -1,7 +1,7 @@
 {
     "mcpServers": {
         "postify": {
-            "url": "https://api.postify.tech/v1/mcp/sse"
+            "url": "https://api.postify.tech/mcp"
         }
     }
 }
